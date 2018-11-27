@@ -12,7 +12,7 @@ This repository contains the data and code for our reproduction paper:
 Our reproduction pre-print is online here:
 
 > Krystalli, A, (2018). *Partial Reproduction of Boettiger Ecology
-> Letters 2018;21:1255–1267 with rrtools*, Accessed 29 Oct 2018. Online
+> Letters 2018;21:1255–1267 with rrtools*, Accessed 27 Nov 2018. Online
 > at
 > [https://doi.org/{DOI-to-compendium}](https://doi.org/%7BDOI-to-compendium%7D)
 
@@ -22,7 +22,7 @@ Please cite this compendium as:
 
 > Krystalli, A, (2018). *Compendium of R code and data for ‘Partial
 > Reproduction of Boettiger Ecology Letters 2018;21:1255–1267 with
-> rrtools’*. Accessed 29 Oct 2018. Online at
+> rrtools’*. Accessed 27 Nov 2018. Online at
 > [https://doi.org/{DOI-to-compendium}](https://doi.org/%7BDOI-to-compendium%7D)
 
 ### How to download or install
@@ -31,10 +31,13 @@ You can download the compendium as a zip from from this URL:
 <https://github.com/annakrystalli/rrcompendium/archive/master.zip>
 
 Or you can install this compendium as an R package, rrcompendium, from
-GitHub with: \#\#\# Licenses
+GitHub with:
+
+### Licenses
 
 **Text and figures :**
-[CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+[CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) Copyright (c)
+2018 Carl Boettiger.
 
 **Code :** See the [DESCRIPTION](DESCRIPTION) file
 
